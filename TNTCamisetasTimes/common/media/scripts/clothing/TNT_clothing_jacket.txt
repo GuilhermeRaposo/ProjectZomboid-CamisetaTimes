@@ -8,7 +8,7 @@ module TNT
 item TShirt_AthleticoPR
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Athletico PR,
     ClothingItem         = TShirt_AthleticoPR,
     BodyLocation         = Tshirt,
@@ -23,7 +23,7 @@ item TShirt_AthleticoPR
 item TShirt_AthleticoPR_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Athletico PR (Time),
     ClothingItem         = TShirt_AthleticoPR_Time,
     BodyLocation         = Tshirt,
@@ -38,7 +38,7 @@ item TShirt_AthleticoPR_Time
 item TShirt_AtleticoMG
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Atletico MG,
     ClothingItem         = TShirt_AtleticoMG,
     BodyLocation         = Tshirt,
@@ -53,7 +53,7 @@ item TShirt_AtleticoMG
 item TShirt_AtleticoMG_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Atletico MG (Time),
     ClothingItem         = TShirt_AtleticoMG_Time,
     BodyLocation         = Tshirt,
@@ -68,7 +68,7 @@ item TShirt_AtleticoMG_Time
 item TShirt_Bahia
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Bahia,
     ClothingItem         = TShirt_Bahia,
     BodyLocation         = Tshirt,
@@ -83,7 +83,7 @@ item TShirt_Bahia
 item TShirt_Bahia_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Bahia (Time),
     ClothingItem         = TShirt_Bahia_Time,
     BodyLocation         = Tshirt,
@@ -98,7 +98,7 @@ item TShirt_Bahia_Time
 item TShirt_Cascavel
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Cascavel,
     ClothingItem         = TShirt_Cascavel,
     BodyLocation         = Tshirt,
@@ -113,7 +113,7 @@ item TShirt_Cascavel
 item TShirt_Cascavel_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Cascavel (Time),
     ClothingItem         = TShirt_Cascavel_Time,
     BodyLocation         = Tshirt,
@@ -128,7 +128,7 @@ item TShirt_Cascavel_Time
 item TShirt_Caxias
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Caxias,
     ClothingItem         = TShirt_Caxias,
     BodyLocation         = Tshirt,
@@ -143,7 +143,7 @@ item TShirt_Caxias
 item TShirt_Caxias_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Caxias (Time),
     ClothingItem         = TShirt_Caxias_Time,
     BodyLocation         = Tshirt,
@@ -158,7 +158,7 @@ item TShirt_Caxias_Time
 item TShirt_Ceara
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Ceara,
     ClothingItem         = TShirt_Ceara,
     BodyLocation         = Tshirt,
@@ -173,7 +173,7 @@ item TShirt_Ceara
 item TShirt_Ceara_Internacional
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Ceara Internacional,
     ClothingItem         = TShirt_Ceara_Internacional,
     BodyLocation         = Tshirt,
@@ -188,7 +188,7 @@ item TShirt_Ceara_Internacional
 item TShirt_Ceara_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Ceara (Time),
     ClothingItem         = TShirt_Ceara_Time,
     BodyLocation         = Tshirt,
@@ -203,7 +203,7 @@ item TShirt_Ceara_Time
 item TShirt_Corinthians
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Corinthians,
     ClothingItem         = TShirt_Corinthians,
     BodyLocation         = Tshirt,
@@ -218,7 +218,7 @@ item TShirt_Corinthians
 item TShirt_Corinthians_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Corinthians (Time),
     ClothingItem         = TShirt_Corinthians_Time,
     BodyLocation         = Tshirt,
@@ -233,7 +233,7 @@ item TShirt_Corinthians_Time
 item TShirt_Cruzeiro
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Cruzeiro,
     ClothingItem         = TShirt_Cruzeiro,
     BodyLocation         = Tshirt,
@@ -248,7 +248,7 @@ item TShirt_Cruzeiro
 item TShirt_Cruzeiro_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Cruzeiro (Time),
     ClothingItem         = TShirt_Cruzeiro_Time,
     BodyLocation         = Tshirt,
@@ -263,7 +263,7 @@ item TShirt_Cruzeiro_Time
 item TShirt_Flamengo
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Flamengo,
     ClothingItem         = TShirt_Flamengo,
     BodyLocation         = Tshirt,
@@ -278,7 +278,7 @@ item TShirt_Flamengo
 item TShirt_Flamengo_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Flamengo (Time),
     ClothingItem         = TShirt_Flamengo_Time,
     BodyLocation         = Tshirt,
@@ -293,7 +293,7 @@ item TShirt_Flamengo_Time
 item TShirt_Fluminense
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Fluminense,
     ClothingItem         = TShirt_Fluminense,
     BodyLocation         = Tshirt,
@@ -308,7 +308,7 @@ item TShirt_Fluminense
 item TShirt_Fluminense_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Fluminense (Time),
     ClothingItem         = TShirt_Fluminense_Time,
     BodyLocation         = Tshirt,
@@ -323,7 +323,7 @@ item TShirt_Fluminense_Time
 item TShirt_Fortaleza
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Fortaleza,
     ClothingItem         = TShirt_Fortaleza,
     BodyLocation         = Tshirt,
@@ -338,7 +338,7 @@ item TShirt_Fortaleza
 item TShirt_Fortaleza_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Fortaleza (Time),
     ClothingItem         = TShirt_Fortaleza_Time,
     BodyLocation         = Tshirt,
@@ -353,7 +353,7 @@ item TShirt_Fortaleza_Time
 item TShirt_Gremio
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Gremio,
     ClothingItem         = TShirt_Gremio,
     BodyLocation         = Tshirt,
@@ -368,7 +368,7 @@ item TShirt_Gremio
 item TShirt_Gremio_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Gremio (Time),
     ClothingItem         = TShirt_Gremio_Time,
     BodyLocation         = Tshirt,
@@ -383,7 +383,7 @@ item TShirt_Gremio_Time
 item TShirt_Internacional
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Internacional,
     ClothingItem         = TShirt_Internacional,
     BodyLocation         = Tshirt,
@@ -398,7 +398,7 @@ item TShirt_Internacional
 item TShirt_Internacional_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Internacional (Time),
     ClothingItem         = TShirt_Internacional_Time,
     BodyLocation         = Tshirt,
@@ -413,7 +413,7 @@ item TShirt_Internacional_Time
 item TShirt_Jacuipense
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Jacuipense,
     ClothingItem         = TShirt_Jacuipense,
     BodyLocation         = Tshirt,
@@ -428,7 +428,7 @@ item TShirt_Jacuipense
 item TShirt_Jacuipense_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Jacuipense (Time),
     ClothingItem         = TShirt_Jacuipense_Time,
     BodyLocation         = Tshirt,
@@ -443,7 +443,7 @@ item TShirt_Jacuipense_Time
 item TShirt_Palmeiras
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Palmeiras,
     ClothingItem         = TShirt_Palmeiras,
     BodyLocation         = Tshirt,
@@ -458,7 +458,7 @@ item TShirt_Palmeiras
 item TShirt_Palmeiras_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Palmeiras (Time),
     ClothingItem         = TShirt_Palmeiras_Time,
     BodyLocation         = Tshirt,
@@ -473,7 +473,7 @@ item TShirt_Palmeiras_Time
 item TShirt_Santos
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Santos,
     ClothingItem         = TShirt_Santos,
     BodyLocation         = Tshirt,
@@ -488,7 +488,7 @@ item TShirt_Santos
 item TShirt_Santos_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Santos (Time),
     ClothingItem         = TShirt_Santos_Time,
     BodyLocation         = Tshirt,
@@ -503,7 +503,7 @@ item TShirt_Santos_Time
 item TShirt_SaoPaulo
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Sao Paulo,
     ClothingItem         = TShirt_SaoPaulo,
     BodyLocation         = Tshirt,
@@ -518,7 +518,7 @@ item TShirt_SaoPaulo
 item TShirt_SaoPaulo_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Sao Paulo (Time),
     ClothingItem         = TShirt_SaoPaulo_Time,
     BodyLocation         = Tshirt,
@@ -533,7 +533,7 @@ item TShirt_SaoPaulo_Time
 item TShirt_Sport
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Sport,
     ClothingItem         = TShirt_Sport,
     BodyLocation         = Tshirt,
@@ -548,7 +548,7 @@ item TShirt_Sport
 item TShirt_Sport_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Sport (Time),
     ClothingItem         = TShirt_Sport_Time,
     BodyLocation         = Tshirt,
@@ -563,7 +563,7 @@ item TShirt_Sport_Time
 item TShirt_Vasco
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Vasco,
     ClothingItem         = TShirt_Vasco,
     BodyLocation         = Tshirt,
@@ -578,7 +578,7 @@ item TShirt_Vasco
 item TShirt_Vasco_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Vasco (Time),
     ClothingItem         = TShirt_Vasco_Time,
     BodyLocation         = Tshirt,
@@ -593,7 +593,7 @@ item TShirt_Vasco_Time
 item TShirt_VoltaRedonda
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Volta Redonda,
     ClothingItem         = TShirt_VoltaRedonda,
     BodyLocation         = Tshirt,
@@ -608,7 +608,7 @@ item TShirt_VoltaRedonda
 item TShirt_VoltaRedonda_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Volta Redonda (Time),
     ClothingItem         = TShirt_VoltaRedonda_Time,
     BodyLocation         = Tshirt,
@@ -623,7 +623,7 @@ item TShirt_VoltaRedonda_Time
 item TShirt_Ypiranga
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Ypiranga,
     ClothingItem         = TShirt_Ypiranga,
     BodyLocation         = Tshirt,
@@ -638,7 +638,7 @@ item TShirt_Ypiranga
 item TShirt_Ypiranga_Time
 {
     DisplayCategory      = Clothing,
-    Type                 = Clothing,
+    ItemType             = base:clothing,
     DisplayName          = Camiseta do Ypiranga (Time),
     ClothingItem         = TShirt_Ypiranga_Time,
     BodyLocation         = Tshirt,
